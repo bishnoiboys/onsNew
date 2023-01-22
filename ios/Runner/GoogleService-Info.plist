@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>899073200083-qafo6jckijvih5r8n2pkstihj410hkim.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.899073200083-qafo6jckijvih5r8n2pkstihj410hkim</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>899073200083-gob6a0cj5mb3263u15hpdptdsb1phqth.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvTs-n_XpS2xaF_ZO30q2FaQYpVEka4Zw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>899073200083</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.onenight.stand.app</string>
+	<key>PROJECT_ID</key>
+	<string>one-night-stand-5529</string>
+	<key>STORAGE_BUCKET</key>
+	<string>one-night-stand-5529.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:899073200083:ios:8739733969ab88ef626926</string>
+</dict>
+</plist>

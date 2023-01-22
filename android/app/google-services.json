@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "899073200083",
+    "project_id": "one-night-stand-5529",
+    "storage_bucket": "one-night-stand-5529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899073200083:android:49a2b641bc5bfbdf626926",
+        "android_client_info": {
+          "package_name": "com.onenight.stand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899073200083-gob6a0cj5mb3263u15hpdptdsb1phqth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onenight.stand",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "899073200083-mt6rg618rs7dbg8v8bt0p8jbgukmfggm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onenight.stand",
+            "certificate_hash": "ff34150a8dae6823fb73211ee5a9b8329b669bc5"
+          }
+        },
+        {
+          "client_id": "899073200083-biv71n7i0oabe4mi9e8ufotv6mtms674.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIK6a0CUp_ptROtzWPPrEfjPrdiQlw7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899073200083-biv71n7i0oabe4mi9e8ufotv6mtms674.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899073200083-3jcmr3b0iost4q46hg823jpe2eg5r9t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onenightstand"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899073200083:android:88f536a7b592536b626926",
+        "android_client_info": {
+          "package_name": "com.onenight.stand.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899073200083-j5p9kp4s1qva3d33dimd4comi0m239ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onenight.stand.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "899073200083-biv71n7i0oabe4mi9e8ufotv6mtms674.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIK6a0CUp_ptROtzWPPrEfjPrdiQlw7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899073200083-biv71n7i0oabe4mi9e8ufotv6mtms674.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899073200083-3jcmr3b0iost4q46hg823jpe2eg5r9t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onenightstand"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899073200083:android:87c1dbb5f13e06e8626926",
+        "android_client_info": {
+          "package_name": "com.onenightstand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899073200083-rbn23ji1s1ku648bnrcnha2bnpeug7vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onenightstand",
+            "certificate_hash": "ff34150a8dae6823fb73211ee5a9b8329b669bc5"
+          }
+        },
+        {
+          "client_id": "899073200083-vjr2ggjchn8b1jj449fqnt0d34rvnp4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onenightstand",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "899073200083-biv71n7i0oabe4mi9e8ufotv6mtms674.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIK6a0CUp_ptROtzWPPrEfjPrdiQlw7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899073200083-biv71n7i0oabe4mi9e8ufotv6mtms674.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899073200083-3jcmr3b0iost4q46hg823jpe2eg5r9t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onenightstand"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
